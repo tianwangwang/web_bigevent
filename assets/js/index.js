@@ -54,4 +54,6 @@ function getUserInfo() {
             $('.text-avatar').html(first).show()
         }
     }
+
+    
 }
